@@ -2,7 +2,7 @@
 # Projeto - Banco
 Projeto realizado durante o curso "Programação em Python do Básico ao Avançado" - Geek University.
 
-![Tela Principal1](img/banco_inicio.png)
+![Tela Principal1](img/Banco_inicio.png)
 
 ---
 
@@ -74,7 +74,7 @@ Comparando o código inicial com o código aprimorado, várias melhorias foram i
 ## Capturas de Tela
 
 #### Tela Principal
-![Tela Principal2](img/banco_inicio.png)
+![Tela Principal2](img/Banco_inicio.png)
 #### Criação de conta
 ![Criação de Conta](img/banco_criar.png)
 #### Projeto em sua versão inicial
